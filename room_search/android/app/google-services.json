@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "838004340101",
+    "firebase_url": "https://room-search-firebase.firebaseio.com",
+    "project_id": "room-search-firebase",
+    "storage_bucket": "room-search-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838004340101:android:bd38ae45c4ad35914680ec",
+        "android_client_info": {
+          "package_name": "com.example.room_search"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838004340101-fqeh4nn4fiic4l3e7a43l7ea9889oi6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtJxGzcpcfls3L0Gr_f_nuF7z665Vz5Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838004340101-fqeh4nn4fiic4l3e7a43l7ea9889oi6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
